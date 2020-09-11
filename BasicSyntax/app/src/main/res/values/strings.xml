@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Basic Syntax developed with android studio xD</string>
+    <string name="myText">Un poco de kotlin antes de empezar un proyecto, y algunos experimentos con el IDE android studio</string>
+</resources>
